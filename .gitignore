@@ -1,0 +1,8 @@
+node_modules/
+es/
+lib/
+coverage/
+.DS_Store
+schema2type.d.ts
+schema2type.js
+schema2type.mjs

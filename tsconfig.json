@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "es2021",
+    "moduleResolution": "node",
+    "outDir": ".",
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "forceConsistentCasingInFileNames": true,
+    "declaration": true,
+    "alwaysStrict": false,
+    "noImplicitUseStrict": true,
+    "types": ["node", "jest"]
+  },
+  "include": ["./schema2type.ts"],
+  "exclude": []
+}

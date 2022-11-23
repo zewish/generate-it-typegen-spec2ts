@@ -29,10 +29,9 @@
   "author": "Iskren Slavov <iskren.s@gmail.com>",
   "license": "MIT",
   "files": [
-    "dist",
-    "es",
-    "lib",
-    "index.d.ts"
+    "schema2type.d.ts",
+    "schema2type.js",
+    "schema2type.mjs"
   ],
   "repository": {
     "type": "git",
